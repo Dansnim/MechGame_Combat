@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Engine.Material Name="forest-pack"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/Assets/Forest_Pack/forest-pack1.forest-pack1'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=5AC34B464167131680B17EA7D0CC3493
+      Material=Material'forest-pack'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   TwoSided=True
+   bUsedWithSkeletalMesh=True
+   bUsedWithStaticLighting=True
+   bUsedWithInstancedStaticMeshes=True
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=F8273557494F48CC6E854DBCD15E41CF
+   ReferencedTextureGuids(0)=4AB238BB413EE1AF636470BC32CF4B49
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="forest-pack1",TextureReference=/Game/Assets/Forest_Pack/forest-pack1.forest-pack1)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=A9EB04B34EB4983CDA3DF9BB9E11E38C
+End Object
